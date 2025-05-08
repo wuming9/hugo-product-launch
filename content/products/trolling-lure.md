@@ -1,7 +1,7 @@
 ---
 title: "6pcs Offshore Trolling Lure Set – Rigged for Marlin, Tuna, Mahi"
 date: 2025-05-08
-image: "/images/trolling-lure.jpg"
+image: "/images/chpa4-2.webp"
 link: "https://www.amazon.com/dp/B07TH8BJPH"
 description: "Professional-grade offshore trolling lures, rigged with 7/0 stainless hooks for big game fishing."
 ---
