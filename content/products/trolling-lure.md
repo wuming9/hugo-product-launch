@@ -17,3 +17,4 @@ This 6-piece trolling lure kit is engineered for serious offshore anglers target
 Ideal for both recreational offshore anglers and professional charter boats. Perfect for OEM branding and private label fishing tackle programs.
 
 > "These are not toys. They're built for offshore action." – Capt. Miller, Florida Keys
+
