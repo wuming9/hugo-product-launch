@@ -1,4 +1,35 @@
-{{ define "main" }}
-  {{- partial "header.html" . -}}
-  {{- partial "content.html" . -}}
-{{ end }}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ .Title }}</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 2rem; }
+    h1 { text-align: center; }
+    img { width: 100%; margin: 1rem 0; border-radius: 8px; }
+    p { line-height: 1.6; }
+    a.button {
+      display: inline-block;
+      margin-top: 1rem;
+      padding: 0.6rem 1.2rem;
+      background: #007bff;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>{{ .Title }}</h1>
+  {{ with .Params.image }}
+    <img src="{{ . | relURL }}" alt="{{ $.Title }}">
+  {{ end }}
+  <p><strong>{{ .Params.description }}</strong></p>
+  <div>
+    {{ .Content }}
+  </div>
+  {{ with .Params.link }}
+    <a class="button" href="{{ . }}" target="_blank">Buy on Amazon</a>
+  {{ end }}
+</body>
+</html>
