@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://wuming9.github.io/hugo-product-launch/sitemap.xml
