@@ -3,10 +3,40 @@
     <title>kmucutie</title>
     <link href="https://wuming9.github.io/hugo-product-launch/feed.xml" rel="self" />
     <link href="https://wuming9.github.io/hugo-product-launch" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2025-05-09T14:53:58+08:00</updated>
     <author>
         <name>Trolling lurs</name>
     </author>
     <id>https://wuming9.github.io/hugo-product-launch</id>
 
+    <entry>
+        <title>Test Product – 6pcs Trolling Lures</title>
+        <author>
+            <name>Trolling lurs</name>
+        </author>
+        <link href="https://wuming9.github.io/hugo-product-launch/test-product-6pcs-trolling-lures.html"/>
+        <id>https://wuming9.github.io/hugo-product-launch/test-product-6pcs-trolling-lures.html</id>
+        <media:content url="https://wuming9.github.io/hugo-product-launch/media/posts/2/CHOCT25-7.jpg" medium="image" />
+
+        <updated>2025-05-09T14:53:58+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://wuming9.github.io/hugo-product-launch/media/posts/2/CHOCT25-7.jpg" alt="" />
+                    Product Overview This 6-piece trolling lure set is pre-rigged and ready to hunt tuna, marlin, and mahi-mahi offshore. 👉 Buy&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://wuming9.github.io/hugo-product-launch/media/posts/2/CHOCT25-7.jpg" class="type:primaryImage" alt="" /></p>
+                <h3 id="product-overview">Product Overview</h3>
+<p>This 6-piece trolling lure set is pre-rigged and ready to hunt tuna, marlin, and mahi-mahi offshore.</p><h3 id="key-features">Key Features</h3>
+<ul>
+<li>Durable UV skirts</li>
+<li>Stainless 7/0 hooks</li>
+<li>Reusable tackle case</li>
+</ul>
+<p>👉 <a href="https://www.amazon.com/dp/B0B72NMQ8G">Buy on Amazon</a></p>
+            ]]>
+        </content>
+    </entry>
 </feed>

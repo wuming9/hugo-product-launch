@@ -9,5 +9,20 @@
         "name": "Trolling lurs"
     },
     "items": [
+        {
+            "id": "https://wuming9.github.io/hugo-product-launch/test-product-6pcs-trolling-lures.html",
+            "url": "https://wuming9.github.io/hugo-product-launch/test-product-6pcs-trolling-lures.html",
+            "title": "Test Product – 6pcs Trolling Lures",
+            "summary": "Product Overview This 6-piece trolling lure set is pre-rigged and ready to hunt tuna, marlin, and mahi-mahi offshore. 👉 Buy&hellip;",
+            "content_html": "<h3 id=\"product-overview\">Product Overview</h3>\n<p>This 6-piece trolling lure set is pre-rigged and ready to hunt tuna, marlin, and mahi-mahi offshore.</p><h3 id=\"key-features\">Key Features</h3>\n<ul>\n<li>Durable UV skirts</li>\n<li>Stainless 7/0 hooks</li>\n<li>Reusable tackle case</li>\n</ul>\n<p>👉 <a href=\"https://www.amazon.com/dp/B0B72NMQ8G\">Buy on Amazon</a></p>",
+            "image": "https://wuming9.github.io/hugo-product-launch/media/posts/2/CHOCT25-7.jpg",
+            "author": {
+                "name": "Trolling lurs"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-05-09T14:53:58+08:00",
+            "date_modified": "2025-05-09T14:53:58+08:00"
+        }
     ]
 }
